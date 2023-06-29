@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shaiktahseen
+- 👋 Hi there, I’m @shaiktahseen from Hyderabad🔥❣️
 - 👀 I’m interested in Frontend web developement.
 - 🌱 I’m currently learning MERN FULL STACK want to develop web pages, app which help industries, users for their effective productivity and growth!
 - 💞️ I’m looking to collaborate on Open sources contributions, Freelancing & Startups in Hyderabad.
@@ -8,10 +8,6 @@
 shaiktahseen/shaiktahseen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-Hi there 👋
-
-I'm Shaik Tahseen from Hyderabad🔥❣️
 
 🎓 Pursuing a Master's Degree:
 Currently, I am pursuing a Master's degree at Osmania University, Hyderabad. This Mern Stack program at Full Stack Academy Hyderabad has provided me with a strong foundation in [Html5, Css, Javascript, MERN] and has equipped me with the necessary skills to excel in the field of software development. I am constantly seeking opportunities to enhance my knowledge and stay up to date with the latest industry trends.
