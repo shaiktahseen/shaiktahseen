@@ -21,12 +21,10 @@ You can click the Preview link to take a look at your changes.
 3️⃣ React.js: React.js
 4️⃣ Node.js: Node.js
 
-
 - By learning the MERN stack, I aim to leverage its advantages and build full-stack applications that deliver a seamless user experience. I am actively working on various projects to apply my knowledge and gain hands-on experience in developing end-to-end web solutions.
 I am always curious to learn new things and experience a professional environment and will prefer jobs in the field of MERN Full Stack, SDE, Front End Development.
 
 - I'm looking forward to join #Internships, #Startups, #Open source contributions work with companies to get hands on experience in the field of MERN Full Stack, Software Development, ML & AI.
-
 
 ✨ Future Endeavors:
 - As I progress in my learning journey, I am excited to explore opportunities where I can contribute my skills in MERN stack development. I am particularly interested in roles that involve building scalable web applications, collaborating with cross-functional teams, and leveraging emerging technologies to drive innovation.
