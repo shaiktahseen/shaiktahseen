@@ -33,7 +33,7 @@ I am always curious to learn new things and experience a professional environmen
 
 - As I progress in my learning journey, I am excited to explore opportunities where I can contribute my skills in MERN stack development. I am particularly interested in roles that involve building scalable web applications, collaborating with cross-functional teams, and leveraging emerging technologies to drive innovation.
 
-- Feel free to connect with me if you share a similar interest in MERN stack development or if you have any exciting opportunities or projects that we could collaborate on. Let's connect, learn, and grow together!
+- Feel free to connect with me if you share a similar interest in #MERN Stack, Software development or if you have any exciting opportunities or projects that we could collaborate on. Let's connect, learn, and grow together!
 
 #MERNStackDevelopment #FrontEnd #FrontEndDeveloper #FullStackDeveloper #SoftwareDevelopment 
 #Coding #Projects #Git&Github #Opensourcecontribution #MasterStudent #WebDevelopment
