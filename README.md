@@ -3,7 +3,7 @@
   
 - 🌱 I’m currently learning MERN FULL STACK want to develop web pages, app which help industries, users for their effective productivity and growth!
   
-- 💞️ I’m looking to collaborate on Open sources contributions, Freelancing & Startups in Hyderabad.
+- 💞️ I’m looking to collaborate on Open sources contributions, Freelancing & Startups in Hyderabad, bangalore & USA.
   
 - 📫 How to reach me here is the link : https://linktr.ee/shaiktahseen
 
