@@ -1,7 +1,5 @@
-- 👋 Hi there, I’m Shaik Tahseen from Hyderabad, India 🔥❣️
-- 👀 Learning MERN Full Stack Developement.
-  
-- 🌱 I’m currently learning MERN FULL STACK want to develop web pages, app which help industries, users for their effective productivity and growth!
+- 👋 Hi there, I’m Shaik Tahseen from Hyderabad, India 🔥❣️  
+- 🌱👀 I’m currently learning MERN FULL STACK Developement want to develop web pages, app which help industries, users for their effective productivity and growth!
   
 - 💞️ I’m looking to collaborate on Open sources contributions, Freelancing & Startups in Hyderabad & USA.
   
