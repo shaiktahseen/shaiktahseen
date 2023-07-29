@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Shaik Tahseen from Hyderabad, India 🔥❣️
-- 👀 I’m interested in MERN Full Stack Developement.
+- 👀 Learning MERN Full Stack Developement.
   
 - 🌱 I’m currently learning MERN FULL STACK want to develop web pages, app which help industries, users for their effective productivity and growth!
   
