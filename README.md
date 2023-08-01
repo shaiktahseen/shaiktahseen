@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 🎓 Pursuing a Master's Degree:
+
 -> Currently, I am pursuing a Master's degree at Osmania University, Hyderabad. This Mern Stack program at Full Stack Academy, Hyderabad has provided me with a strong foundation in [Html5, Css, Javascript, MERN] and has equipped me with the necessary skills to excel in the field of software development. I am constantly seeking opportunities to enhance my knowledge and stay up to date with the latest industry trends.
 
 
