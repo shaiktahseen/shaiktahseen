@@ -1,4 +1,4 @@
--> 👋 Hi there, I’m Shaik Tahseen from Hyderabad, India 🇮🇳 ❣️
+ki-> 👋 Hi there, I’m Shaik Tahseen from Hyderabad, India 🇮🇳 ❣️
 
 -> 🌱👀 I’m currently learning MERN FULL STACK Developement want to develop web pages, app which help industries, users for their effective productivity and growth!
   
