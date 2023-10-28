@@ -26,9 +26,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <h2>💻 Learning MERN Stack Development: <h2>
+<br>
+<br>
 
 -> In parallel with my studies, I am actively learning MERN stack development to expand my skill set and become a versatile software developer. The MERN stack offers a comprehensive set of tools and technologies for developing dynamic and scalable web applications. 
 
+<br>
+<br>
 
 <h2>My Skills</h2>
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,git,html,css" alt="My Skills" />
