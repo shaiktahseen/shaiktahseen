@@ -6,7 +6,7 @@
  
   
 
-*-> 🌱👀 I’m currently learning MERN FULL STACK Developement want to develop web pages, apps which help people for their real world problems and Companies for their effective productivity and growth!*
+*-> 🌱👀 I’m currently learning MERN FULL STACK Developement want to develop web pages, apps which can help the people to solve their real world problems and Companies for their effective productivity and growth!*
   
 *-> 💞️ I’m looking to collaborate on Open sources contributions, Freelancing & Startups in Hyderabad & USA.*
 
