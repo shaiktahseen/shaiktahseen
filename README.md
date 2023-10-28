@@ -25,8 +25,8 @@ You can click the Preview link to take a look at your changes.
 -> Currently, I am pursuing a Master's degree at Osmania University, Hyderabad. This Mern Stack program at Full Stack Academy, Hyderabad has provided me with a strong foundation in [Html5, Css, Javascript, MERN] and has equipped me with the necessary skills to excel in the field of software development. I am constantly seeking opportunities to enhance my knowledge and stay up to date with the latest industry trends.
 
 
-**💻 Learning MERN Stack Development:
-**
+<h2>💻 Learning MERN Stack Development:<h2>
+
 -> In parallel with my studies, I am actively learning MERN stack development to expand my skill set and become a versatile software developer. The MERN stack offers a comprehensive set of tools and technologies for developing dynamic and scalable web applications. 
 
 <h2>My Skills</h2>
@@ -44,8 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 -> I'm looking forward to join #Internships, #Startups, #Open source contributions work with companies to get hands on experience in the field of MERN Full Stack, Software Web Development, Machine Learning & Artificial Intelligence.
 
-**✨ Future Endeavors:
-**
+<h2>✨ Future Endeavors:<h2>
 
 -> As I progress in my learning journey, I am excited to explore opportunities where I can contribute my skills in MERN stack development. I am particularly interested in roles that involve building scalable web applications, collaborating with cross-functional teams, and leveraging emerging technologies to drive innovation.
 
