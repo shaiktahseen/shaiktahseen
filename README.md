@@ -1,4 +1,11 @@
-ki-> 👋 Hi there, I’m Shaik Tahseen from Hyderabad, India 🇮🇳 ❣️
+<div align="center">
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shaik Tahseen! 👋;Welcome+to+my+Profile! 🌟" alt="Hey! I'm Shaik Tahseen">
+    <img src="./assets/line.gif">
+  </div>
+  
+
+-> 👋 Hi there, I’m Shaik Tahseen from Hyderabad, India 🇮🇳 ❣️
 
 -> 🌱👀 I’m currently learning MERN FULL STACK Developement want to develop web pages, app which help industries, users for their effective productivity and growth!
   
