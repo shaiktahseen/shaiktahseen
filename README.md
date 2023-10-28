@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
   <br/>
       
 
-*-> By learning the MERN stack, I aim to leverage its advantages and build full-stack applications that deliver a seamless user experience. I am actively working on various projects to apply my knowledge and gain hands-on experience in developing end-to-end web solutions. I am always curious to learn new things and experience a professional environment and will prefer jobs in the field of MERN Full Stack, SDE, Front End Development.*
+*-> By learning the MERN stack, I aim to leverage its advantages and build full-stack applications that deliver a seamless user experience. I am actively working on various my own projects to apply my knowledge and gain hands-on experience in developing end-to-end web solutions. I am always curious to learn new things and experience a professional environment and will prefer jobs in the field of MERN Full Stack, SDE, Front End Development.*
 
 
 *-> I'm looking forward to join #Internships, #Startups, #Open source contributions work with companies to get hands on experience in the field of MERN Full Stack, Software Web Development, Machine Learning & Artificial Intelligence.*
