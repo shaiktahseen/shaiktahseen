@@ -40,6 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h2>My Skills</h2>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,git,html,css" alt="My Skills" />
   </div>
   
