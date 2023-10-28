@@ -44,6 +44,12 @@ You can click the Preview link to take a look at your changes.
   </div>
   
 
+
+ </div>
+  
+  <br/>
+  <div>
+      
   -> Here's a breakdown of each component:
 
 1️⃣ MongoDB: MongoDB
@@ -57,6 +63,11 @@ You can click the Preview link to take a look at your changes.
 *-> I'm looking forward to join #Internships, #Startups, #Open source contributions work with companies to get hands on experience in the field of MERN Full Stack, Software Web Development, Machine Learning & Artificial Intelligence.*
 
 
+ </div>
+  
+  <br/>
+  <div>
+      
 ->✨ Future Endeavors:
 
 *-> As I progress in my learning journey, I am excited to explore opportunities where I can contribute my skills in MERN stack development. I am particularly interested in roles that involve building scalable web applications, collaborating with cross-functional teams, and leveraging emerging technologies to drive innovation.*
