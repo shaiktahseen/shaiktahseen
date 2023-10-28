@@ -32,6 +32,10 @@ You can click the Preview link to take a look at your changes.
 **-> Here's a breakdown of each component:
 **
 
+<h2>My Skills</h2>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,git,html,css" alt="My Skills" />
+  </div>
+
 1️⃣ MongoDB: MongoDB
 2️⃣ Express.js: Express.js
 3️⃣ React.js: React.js
