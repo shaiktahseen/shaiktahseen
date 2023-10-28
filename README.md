@@ -1,5 +1,4 @@
-<div align="center">
-  <div>
+<div>
     <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shaik Tahseen! 👋;Welcome+to+my+Profile! 🌟" alt="Hey! I'm Shaik Tahseen">
     <img src="./assets/line.gif">
   </div>
