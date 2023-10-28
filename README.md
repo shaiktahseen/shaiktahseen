@@ -18,10 +18,9 @@
 You can click the Preview link to take a look at your changes.
 --->
 
- </div>
   
   <br/>
-  <div>
+  
 
 🎓 Pursuing a Master's Degree:
 
@@ -47,7 +46,6 @@ You can click the Preview link to take a look at your changes.
   </div>
   
 
-  
   <br/>
       
 
@@ -56,16 +54,19 @@ You can click the Preview link to take a look at your changes.
 
 *-> I'm looking forward to join #Internships, #Startups, #Open source contributions work with companies to get hands on experience in the field of MERN Full Stack, Software Web Development, Machine Learning & Artificial Intelligence.*
 
+
   <br/>
   
       
 ✨ Future Endeavors:
+
 
 *-> As I progress in my learning journey, I am excited to explore opportunities where I can contribute my skills in MERN stack development. I am particularly interested in roles that involve building scalable web applications, collaborating with cross-functional teams, and leveraging emerging technologies to drive innovation.*
 
 
 *-> Feel free to connect with me if you share a similar interest in #MERN Stack, Software development or if you have any exciting opportunities or projects that we could collaborate on. Let's connect, learn, and grow together!*
 
+  <br/>
 
 
 #MERNStackDevelopment #FullStackDeveloper #FrontEnd #FrontEndDeveloper #SoftwareDevelopment #Coding #Git&Github #Projects #Opensourcecontribution #MasterStudent #WebDevelopment
