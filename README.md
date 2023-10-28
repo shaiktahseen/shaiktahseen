@@ -60,6 +60,8 @@ You can click the Preview link to take a look at your changes.
       
 ✨ Future Endeavors:
 
+  <br/>
+
 
 *-> As I progress in my learning journey, I am excited to explore opportunities where I can contribute my skills in MERN stack development. I am particularly interested in roles that involve building scalable web applications, collaborating with cross-functional teams, and leveraging emerging technologies to drive innovation.*
 
