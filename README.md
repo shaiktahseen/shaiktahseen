@@ -1,3 +1,5 @@
+<div align="center">
+
 <div>
     <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shaik Tahseen! 👋;Welcome+to+my+Profile! 🌟" alt="Hey! I'm Shaik Tahseen">
     <img src="./assets/line.gif">
@@ -18,16 +20,17 @@ shaiktahseen/shaiktahseen is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-🎓 Pursuing a Master's Degree:
-
+**🎓 Pursuing a Master's Degree:
+**
 -> Currently, I am pursuing a Master's degree at Osmania University, Hyderabad. This Mern Stack program at Full Stack Academy, Hyderabad has provided me with a strong foundation in [Html5, Css, Javascript, MERN] and has equipped me with the necessary skills to excel in the field of software development. I am constantly seeking opportunities to enhance my knowledge and stay up to date with the latest industry trends.
 
 
-💻 Learning MERN Stack Development:
-
+**💻 Learning MERN Stack Development:
+**
 -> In parallel with my studies, I am actively learning MERN stack development to expand my skill set and become a versatile software developer. The MERN stack offers a comprehensive set of tools and technologies for developing dynamic and scalable web applications. 
 
--> Here's a breakdown of each component:
+**-> Here's a breakdown of each component:
+**
 
 1️⃣ MongoDB: MongoDB
 2️⃣ Express.js: Express.js
@@ -38,7 +41,8 @@ You can click the Preview link to take a look at your changes.
 
 -> I'm looking forward to join #Internships, #Startups, #Open source contributions work with companies to get hands on experience in the field of MERN Full Stack, Software Web Development, Machine Learning & Artificial Intelligence.
 
-✨ Future Endeavors:
+**✨ Future Endeavors:
+**
 
 -> As I progress in my learning journey, I am excited to explore opportunities where I can contribute my skills in MERN stack development. I am particularly interested in roles that involve building scalable web applications, collaborating with cross-functional teams, and leveraging emerging technologies to drive innovation.
 
