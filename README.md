@@ -53,10 +53,8 @@ You can click the Preview link to take a look at your changes.
 
 *-> I'm looking forward to join #Internships, #Startups, #Open source contributions work with companies to get hands on experience in the field of MERN Full Stack, Software Web Development, Machine Learning & Artificial Intelligence.*
 
-
   <br/>
   <br/>
-
       
 ✨ Future Endeavors:
 
