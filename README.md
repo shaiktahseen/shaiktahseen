@@ -63,5 +63,3 @@ You can click the Preview link to take a look at your changes.
 
 
 #MERNStackDevelopment #FullStackDeveloper #FrontEnd #FrontEndDeveloper #SoftwareDevelopment #Coding #Git&Github #Projects #Opensourcecontribution #MasterStudent #WebDevelopment
-
- </div>
