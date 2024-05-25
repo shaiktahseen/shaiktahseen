@@ -38,10 +38,8 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,git,html,css" alt="My Skills"/>
   </div>
   
-
   <br/>
       
-
 *-> By learning the MERN stack, I aim to leverage its advantages and build full-stack applications that deliver a seamless user experience. I am actively working on my projects to apply my knowledge and gain hands-on experience in developing end-to-end web solutions. I am always curious to learn new things and experience a professional environment and will prefer jobs in the field of MERN Full Stack, SDE, Front End Development.*
 
 
